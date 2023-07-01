@@ -1,7 +1,7 @@
 ﻿## xscr33m's Dr.Jones→TraderPlus-Converter
 
 Converts any Dr.Jones's Trader.txt into a TraderPlusPriceConfig.json. 
-It ignores the <Trader>,<Currency>,<FileEnd>, and any comment written with "//" like the original.
+It ignores the Trader,Currency,FileEnd, and any comment written with "//" like the original.
 
 
 ## How-To-Use
