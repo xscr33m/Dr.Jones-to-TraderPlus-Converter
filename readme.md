@@ -6,11 +6,11 @@ It ignores the <Trader>,<Currency>,<FileEnd>, and any comment written with "//" 
 
 ## How-To-Use
 
-    1. Download the latest release of [xscr33m's Dr.Jones→TraderPlus-Converter.zip](https://github.com/xscr33m/xscr33m's Dr.Jones→TraderPlus-Converter/releases).  →→→→→→→→→→→→→→→→→
-    2. Unzip the "xscr33m's Dr.Jones→TraderPlus-Converter.zip" file with 7Zip or another program.
-    3. Open the extracted folder.
-    4. Drag your TraderConfig.txt on the "xscr33m's Dr.Jones→TraderPlus-Converter.exe".
-    5. Your TraderPlusPriceConfig.json will be created in the origin path of TraderConfig.txt.
+   1. Download the latest release of [xscr33m's Dr.Jones→TraderPlus-Converter.zip](https://github.com/xscr33m/Dr.Jones-to-TraderPlus-Converter/releases)  →→→→→→→→→→→→→→→→→
+   2. Unzip the "xscr33m's Dr.Jones→TraderPlus-Converter.zip" file with 7Zip or another program.
+   3. Open the extracted folder.
+   4. Drag your TraderConfig.txt on the "xscr33m's Dr.Jones→TraderPlus-Converter.exe".
+   5. Your TraderPlusPriceConfig.json will be created in the origin path of TraderConfig.txt.
 
 
 ## License
