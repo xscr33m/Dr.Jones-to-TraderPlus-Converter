@@ -13,6 +13,12 @@ It ignores the Trader,Currency,FileEnd, and any comment written with "//" like t
    5. Your TraderPlusPriceConfig.json will be created in the origin path of TraderConfig.txt.
 
 
+## Sneak-Preview
+
+![Logo](https://cdn.discordapp.com/attachments/1120478082906718300/1125863834297569420/2023-07-04_20_58_44-Clipboard.png)
+![Logo](https://cdn.discordapp.com/attachments/1120478082906718300/1125863833974616134/2023-07-04_20_58_18-Clipboard.png)
+
+
 ## License
 
 [MIT License](https://spdx.org/licenses/)
