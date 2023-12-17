@@ -221,4 +221,15 @@ namespace Dr.Jones_TraderPlus_Converter
             Console.ReadKey();
         }
     }
+    internal class TraderCategory
+    {
+        public string CategoryName { get; set; }
+        public List<string> Products { get; set; }
+
+        public TraderCategory()
+        {
+            Products = new List<string>();
+        }
+    }
 }
+
