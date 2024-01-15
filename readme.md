@@ -22,8 +22,8 @@ It ignores the Trader,Currency,FileEnd, and any comment written with "//" like t
 
 ## Sneak-Preview
 
-![Logo](https://cdn.discordapp.com/attachments/1120478082906718300/1125863834297569420/2023-07-04_20_58_44-Clipboard.png)
-![Logo](https://cdn.discordapp.com/attachments/1120478082906718300/1125863833974616134/2023-07-04_20_58_18-Clipboard.png)
+   ![Logo](https://media.discordapp.net/attachments/1183148527761772625/1183149398448951326/Converter1.png)
+   ![Logo](https://media.discordapp.net/attachments/1183148527761772625/1183149454296088717/Converter2.png)
 
 
 ## License
