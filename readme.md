@@ -2,7 +2,7 @@
 [![Downloads](https://img.shields.io/github/downloads/xscr33m/Dr.Jones-to-TraderPlus-Converter/total?style=for-the-badge&color=gold)](https://github.com/xscr33m/Dr.Jones-to-TraderPlus-Converter/releases)
 [![GitHub last commit (branch)](https://img.shields.io/github/last-commit/xscr33m/Dr.Jones-to-TraderPlus-Converter/master?style=for-the-badge&color=gold)](https://github.com/xscr33m/Dr.Jones-to-TraderPlus-Converter/commits/master/)
 [![GitHub License](https://img.shields.io/github/license/xscr33m/Dr.Jones-to-TraderPlus-Converter?style=for-the-badge&color=gold)](https://spdx.org/licenses/)
-[![Discord](https://img.shields.io/discord/1102440447835648124?style=for-the-badge&label=Discord&color=gold)](https://discord.com/invite/PasvscT4Nh)
+[![Discord](https://img.shields.io/discord/1102440447835648124?style=for-the-badge&label=Discord&color=gold)](https://discord.gg/g3gThCNYcM)
 
  
 ## xscr33m's Dr.Jones→TraderPlus-Converter
@@ -36,7 +36,7 @@ It ignores the Trader,Currency,FileEnd, and any comment written with "//" like t
 If you have any feedback, please reach out to me!
 I would appreciate it very much! 
 
-[![Logo](https://cdn.discordapp.com/attachments/1182770512133361754/1183151523581153462/Discord_Banner.png)](https://discord.com/invite/PasvscT4Nh)
+[![Logo](https://cdn.discordapp.com/attachments/1182770512133361754/1183151523581153462/Discord_Banner.png)](https://discord.gg/g3gThCNYcM)
 
 [![Logo](https://cdn.discordapp.com/attachments/1182770512133361754/1183155022419197982/PayPal_Donate.png)](https://www.paypal.com/paypalme/dheil53)
 
